@@ -71,4 +71,42 @@ Canada leads, with the USA close behind – these two markets drive nearly all r
 Mexico sales are minimal – potential to either explore the cause or redeploy efforts elsewhere.
 
 
+## 4 Sales Channel Performance
+
+   # Channel | Share
+
+    Online   | 65%
+    
+    In-store | 35%
+
+     
+![Image](https://github.com/user-attachments/assets/4d27081b-60f7-46b8-a01e-e4b1572c236d)
+
+## Insight: The business thrives online, with nearly 2/3 of all sales. This highlights the importance of digital infrastructure, marketing, and logistics support.
+
+## 5 Purchase Type
+
+   ## Type | Sales
+    
+Credit Card | $364,239.27
+
+Debit Card | $239,879.82
+ 
+Cash | $16,090.54
+
+ 
+![Image](https://github.com/user-attachments/assets/c08d1fd6-26b5-4554-94be-f62c59c23d1d)
+
+##  Insights:
+
+Credit cards dominate, showing trust and possibly higher average order value.
+
+Cash use is minimal, hinting at a cashless-friendly customer base and likely online dominance.
+
+Optimize online checkout and ensure card processing efficiency.
+
+
+
+
+
 
