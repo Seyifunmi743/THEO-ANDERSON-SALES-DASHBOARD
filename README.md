@@ -105,7 +105,39 @@ Cash use is minimal, hinting at a cashless-friendly customer base and likely onl
 
 Optimize online checkout and ensure card processing efficiency.
 
+## 6 Sales by Day of the Week
 
+  ## Day | Trend
+    
+  Sunday | Highest (~110k)
+  
+ Saturday | Very strong
+ 
+ Tuesday | Strong (~90k)
+
+ Monday | Lowest (~70k)
+
+  
+![Image](https://github.com/user-attachments/assets/1547ea41-a7c7-470a-b39a-bafe2da1aecc)
+
+##  Insight: Weekend and early-week sales (Sun-Tue) are strongest. Consider aligning marketing campaigns, discounts, and staffing around those peak days.
+
+## DASHBOARD VIEW 
+
+ 
+![Image](https://github.com/user-attachments/assets/dd82c75f-445c-4db6-ac5f-ec1e90995f82)
+
+##  Recommendations
+
+1.Leverage Online Dominance: Enhance UX, invest in online ads, and refine logistics.
+
+2.Explore Seasonal Drivers: Investigate what boosts Jan–Feb sales and replicate those strategies in later months.
+
+3.Reignite 2021 Sales: Review what led to the sharp decline—internal or market-related? If it’s data incompleteness, update records.
+
+4.Country Expansion: Mexico's market underperforms—consider promotional efforts or market exit.
+
+5.Cashless Efficiency: Since digital payments dominate, continue improving secure, seamless card processing.
 
 
 
