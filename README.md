@@ -52,5 +52,23 @@ Heavy seasonality exists – possibly driven by early-year promotions, clearance
 
 Opportunity: Spread promotions or product launches more evenly throughout the year to stabilize revenue.
 
+## 3 Country Sales
+
+## Country | Sales
+
+    Canada | $326,002.26
+
+    USA    | $288,813.36
+
+    Mexico | $5,394.01
+ 
+![Image](https://github.com/user-attachments/assets/a5133d68-c9c7-489b-af0e-709d837dd5cc)
+
+## Insights:
+
+Canada leads, with the USA close behind – these two markets drive nearly all revenue.
+
+Mexico sales are minimal – potential to either explore the cause or redeploy efforts elsewhere.
+
 
 
