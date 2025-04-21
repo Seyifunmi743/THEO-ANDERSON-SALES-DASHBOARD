@@ -12,13 +12,19 @@ Total Cost of Goods Sold (COGS): $349,935.30
 
 ## Insight: A healthy gross profit margin of ~43.6% suggests good profitability, though costs are still substantial. Focusing on operational efficiencies might help improve this further.
 
-## Year | Sales
+## 1 Yearly Sales Trend
+
+    Year | Sales
+    
 
    2020 | $253,812.53
    
+   
    2019 | $190,269.18
    
+   
    2018 | $169,813.78
+   
    
    2021 | $6,314.14
 
