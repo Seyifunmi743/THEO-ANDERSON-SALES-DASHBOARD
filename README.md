@@ -28,15 +28,15 @@ Total Cost of Goods Sold (COGS): $349,935.30
    
    2021 | $6,314.14
 
-   ##  Insights:
+![Image](https://github.com/user-attachments/assets/c770a245-7c9b-4b10-a5f3-6618152b4705)
+
+ ##  Insights:
 
 Sales peaked in 2020, showing growth over 2018 and 2019.
 
 2021 sales dropped drastically – either due to partial data or an external/internal disruption (e.g., pandemic, supply chain issue, business slowdown).
 
 This needs further investigation.
-
-![Image](https://github.com/user-attachments/assets/c770a245-7c9b-4b10-a5f3-6618152b4705)
 
 
 
