@@ -38,5 +38,19 @@ Sales peaked in 2020, showing growth over 2018 and 2019.
 
 This needs further investigation.
 
+## 2 Monthly Sales Distribution
+
+January and February dominate, with February alone contributing nearly $280,000.
+
+The remaining months have low and relatively flat sales.
+ 
+![Image](https://github.com/user-attachments/assets/3675c60a-9535-48d2-9c47-b4530068b107)
+
+##  Insights:
+
+Heavy seasonality exists – possibly driven by early-year promotions, clearances, or consumer trends.
+
+Opportunity: Spread promotions or product launches more evenly throughout the year to stabilize revenue.
+
 
 
