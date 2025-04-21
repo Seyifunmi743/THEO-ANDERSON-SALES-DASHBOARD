@@ -10,5 +10,5 @@ Units Sold: 5,329
 
 Total Cost of Goods Sold (COGS): $349,935.30
 
-# Insight: A healthy gross profit margin of ~43.6% suggests good profitability, though costs are still substantial. Focusing on operational efficiencies might help improve this further.
+## Insight: A healthy gross profit margin of ~43.6% suggests good profitability, though costs are still substantial. Focusing on operational efficiencies might help improve this further.
 
